@@ -44,6 +44,7 @@ https://www.endorlabs.com/learn/rss.xml
 https://www.stepsecurity.io/blog/rss.xml
 https://android-developers.googleblog.com/atom.xml
 https://feeds.feedburner.com/threatintelligence/pvexyqv7v0v
+https://securitybrief.com.au/feed
 --END RSS FEED--
 
 --START YOUTUBE PODCAST--
