@@ -11,6 +11,12 @@ https://cisoseries.com
 https://www.huntress.com/company/press
 https://thecyberwire.com/newsletters/daily-briefing
 https://techcrunch.com/category/security/
+https://socradar.io/blog/
+https://www.inc.com/cybersecurity
+https://www.helpnetsecurity.com/
+https://www.ox.security/blog/
+https://www.aquasec.com/blog/
+https://botcrawl.com/category/cybersecurity/
 --END WEB SCRAPER--
 
 --START RSS FEED--
@@ -33,13 +39,25 @@ https://www.darkreading.com/rss.xml
 https://www.cybersecuritydive.com/feeds/news/
 https://www.govinfosecurity.com/rss-feeds
 https://therecord.media/feed
-
+https://www.wiz.io/feed/rss.xml
+https://www.endorlabs.com/learn/rss.xml
+https://www.stepsecurity.io/blog/rss.xml
+https://android-developers.googleblog.com/atom.xml
+https://feeds.feedburner.com/threatintelligence/pvexyqv7v0v
 --END RSS FEED--
 
 --START YOUTUBE PODCAST--
 https://www.youtube.com/playlist?list=PL7JW9Q3mhniRi171QwPwnWzLEsB8pkGLJ
+https://www.youtube.com/playlist?list=PLW5y1tjAOzI0Sx4UU2fncEwQ9BQLr5Vlu
+https://www.youtube.com/playlist?list=PLOh_LIYqw5qXh-ei6FcFE7_1zIhbjCIKx
+https://www.youtube.com/playlist?list=PL4Q-ttyNIRApsbLUpFXzrMnThZc_MCoHy
+https://www.youtube.com/playlist?list=PLPu6_3GKMYa8Z9BcYYWbEPphahN0n7JTU
+https://www.youtube.com/playlist?list=PLPu6_3GKMYa_OK6SKqb8A1cCoXymw4PPD
+https://www.youtube.com/playlist?list=PLPu6_3GKMYa-QcbXqyP5hFi7tvnhIvVpW
+https://www.youtube.com/playlist?list=PLPu6_3GKMYa8Wp_AwCRuqpqAjMA9Kcuqh
 --END YOUTUBE PODCAST--
 
 --START SOCIAL MEDIA--
 https://x.com/_johnhammond
+https://x.com/pcpcats
 --END SOCIAL MEDIA--
