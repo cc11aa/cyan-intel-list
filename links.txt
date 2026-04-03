@@ -9,6 +9,8 @@ https://tornews.com/news/
 https://www.secureideas.com/blog
 https://cisoseries.com
 https://www.huntress.com/company/press
+https://thecyberwire.com/newsletters/daily-briefing
+https://techcrunch.com/category/security/
 --END WEB SCRAPER--
 
 --START RSS FEED--
@@ -29,6 +31,9 @@ https://www.securityweek.com/feed/
 https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
 https://www.darkreading.com/rss.xml
 https://www.cybersecuritydive.com/feeds/news/
+https://www.govinfosecurity.com/rss-feeds
+https://therecord.media/feed
+
 --END RSS FEED--
 
 --START YOUTUBE PODCAST--
