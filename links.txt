@@ -1,24 +1,40 @@
-https://cisoseries.com
+--START WEB SCRAPER--
 https://cyberpress.org
 https://cyberscoop.com
-https://cybersecuritynews.com
-https://flare.io/learn/news
-https://krebsonsecurity.com
+https://flare.io/learn/news/press-releases
 https://material.security/resources
-https://redsiege.com/red-siege-blog
-https://securityboulevard.com
-https://thehackernews.com
-https://www.blackhillsinfosec.com/blog
-https://www.bleepingcomputer.com
-https://www.cisa.gov/news-events/news
-https://www.cybersecuritydive.com
-https://www.darkreading.com
-https://www.ncsc.gov.uk/section/keep-up-to-date
-https://www.secureideas.com/blog
-https://www.securityweek.com
-https://www.threatlocker.com/resources
-https://darkwebinformer.com/
-https://tornews.com/news/
-https://www.cert.se/
 https://euvd.enisa.europa.eu/
 https://www.cve.org/Media/News/AllNews
+https://tornews.com/news/
+https://www.secureideas.com/blog
+https://cisoseries.com
+https://www.huntress.com/company/press
+--END WEB SCRAPER--
+
+--START RSS FEED--
+https://cybersecuritynews.com/feed/
+https://krebsonsecurity.com/feed/
+https://redsiege.com/blog/feed/
+https://securityboulevard.com/feed/
+https://feeds.feedburner.com/TheHackersNews
+https://www.blackhillsinfosec.com/feed/
+https://www.bleepingcomputer.com/feed/
+https://www.cisa.gov/cybersecurity-advisories/all.xml
+https://www.cisa.gov/blog.xml
+https://www.cisa.gov/news.xml
+https://www.cert.se/feed/rss.xml
+https://darkwebinformer.com/rss/
+https://www.threatlocker.com/blog/rss.xml
+https://www.securityweek.com/feed/
+https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
+https://www.darkreading.com/rss.xml
+https://www.cybersecuritydive.com/feeds/news/
+--END RSS FEED--
+
+--START YOUTUBE PODCAST--
+https://www.youtube.com/playlist?list=PL7JW9Q3mhniRi171QwPwnWzLEsB8pkGLJ
+--END YOUTUBE PODCAST--
+
+--START SOCIAL MEDIA--
+https://x.com/_johnhammond
+--END SOCIAL MEDIA--
