@@ -20,6 +20,7 @@ https://botcrawl.com/category/cybersecurity/
 --END WEB SCRAPER--
 
 --START RSS FEED--
+https://malpedia.caad.fkie.fraunhofer.de/feeds/rss/latest
 https://cybersecuritynews.com/feed/
 https://krebsonsecurity.com/feed/
 https://redsiege.com/blog/feed/
