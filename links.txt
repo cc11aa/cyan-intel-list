@@ -17,6 +17,7 @@ https://www.helpnetsecurity.com/
 https://www.ox.security/blog/
 https://www.aquasec.com/blog/
 https://botcrawl.com/category/cybersecurity/
+https://kryptera.se/
 --END WEB SCRAPER--
 
 --START RSS FEED--
